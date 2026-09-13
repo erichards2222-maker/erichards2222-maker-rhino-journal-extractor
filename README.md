@@ -21,7 +21,7 @@ This extractor is a companion to the **Rhino Planetary Survey and Mapping Field 
 - [AI Site Report Prompt v0.3](https://drive.google.com/file/d/1jLHM5_kzlaXOeDWlRjREIwR1skO38Y5W/view)
 - [Rhino Planetary Survey and Mapping Drive folder](https://drive.google.com/drive/folders/1gLF2IFqG8FP6FQeOw6YhIs32tqKuAIAg)
 
-These companion links may remain private until the project release permissions are enabled.
+The Google Drive package contains the user-facing manual and companion tools; this repository is the canonical auditable source for the extractor.
 
 ## What the extractor does
 
